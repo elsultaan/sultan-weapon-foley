@@ -1,4 +1,4 @@
-# Sultan's Weapon Foley
+#🔫 Sultan's Weapon Foley 🔫
 
 Welcome to my **Weapon Foley** repository!👋 This collection is curated for viewmodel animators seeking weapon foley sounds for their stellar animations.😎
 
