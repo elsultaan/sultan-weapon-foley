@@ -24,6 +24,10 @@ In the future I plan to expand this repository with sounds, such as:
 - **Reloading**
   - Mag Drop sounds
 
+## Disclaimer
+
+The sounds in this repository were recorded using an SM900 microphone fitted with a pop filter, however lack any kind of denoising.
+
 ## Usage
 
 Feel free to use these sounds in your projects. If you do, please mention this repository or my username. 
