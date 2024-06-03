@@ -27,7 +27,7 @@ In the future I plan to expand this repository with sounds, such as:
 
 ## Disclaimer :heavy_exclamation_mark:
 
-The sounds in this repository were recorded using an SM900 microphone fitted with a pop filter, however lack any kind of denoising.
+The sounds in this repository were recorded using an SM900 microphone fitted with a pop filter, however they lack any kind of denoising.
 
 ## Usage :necktie:
 
