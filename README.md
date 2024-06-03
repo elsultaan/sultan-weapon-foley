@@ -14,6 +14,7 @@ This repository includes a variety of weapon sounds, such as:
  
 - **General Handling**
   - Rattle
+  - Pouch
 
 In the future I plan to expand this repository with sounds, such as:
 
