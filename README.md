@@ -1,4 +1,4 @@
-#:fallen_leaf: Sultan's Weapon Foley :sun_with_face:
+# :fallen_leaf: Sultan's Weapon Foley :sun_with_face:
 
 Welcome to my **Weapon Foley** repository!👋 This collection is curated for viewmodel animators seeking weapon foley sounds for their stellar animations.😎
 
